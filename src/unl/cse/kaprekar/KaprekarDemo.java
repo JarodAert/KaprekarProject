@@ -5,7 +5,7 @@ public class KaprekarDemo {
 	public static void main(String args[]) {
 		
 		if(args.length != 1) {
-			System.err.println("Usage: KaprekarDemo n");
+			System.err.println("Usage: unl.cse.kaprekar.KaprekarDemo n");
 			System.exit(1);
 		}
 		
